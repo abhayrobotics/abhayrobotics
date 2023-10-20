@@ -20,7 +20,7 @@
 
 
 <a href="https://github.com/abhayrobotics/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayrobotics&langs_count=4&theme=radical&card_width=200"/>
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayrobotics&langs_count=4&theme=radical&card_width=250"/>
 </a>
 
 <a href="https://github.com/abhayrobotics/github-readme-stats">
@@ -29,10 +29,19 @@
 <br/>
 
 
+
 <a href="https://github.com/abhayrobotics/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=abhayrobotics&theme=radical&card_width=320" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=abhayrobotics&theme=radical&card_width=300&rank_icon=github" />
 </a>
 
+## Repository
+
+<a href="https://github.com/bhayrobotics/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhayrobotics&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/abhayrobotics/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhayroboticsa&repo=Flappy-Bird" />
+</a>
 
 
 
