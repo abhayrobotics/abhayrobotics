@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Swiggy App**
+- 🔭 I’m currently working on **Netflix AI**
 
 - 👨‍💻 All of my projects are available at [https://abhayrobotics.github.io/](https://abhayrobotics.github.io/)
 
