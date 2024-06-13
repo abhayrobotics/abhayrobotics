@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Netflix AI**
+- 🔭 I’m currently working on **Stock Market**
 
 - 👨‍💻 All of my projects are available at [https://abhayrobotics.github.io/](https://abhayrobotics.github.io/)
 
