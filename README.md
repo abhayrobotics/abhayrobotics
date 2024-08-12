@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Stock Market App**
+- 🔭 I’m currently working on **Likedin Clone**
 
 - 👨‍💻 All of my projects are available at [https://abhayrobotics.github.io/](https://abhayrobotics.github.io/)
 
