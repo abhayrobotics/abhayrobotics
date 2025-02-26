@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer of the Developer World</h3>
 
 
-- 🔭 I’m currently working on **Linkedin Clone**
+- 🔭 I’m currently working on **Spotify Clone**
 
 - 👨‍💻 All of my projects are available at [https://abhayrobotics.github.io/](https://abhayrobotics.github.io/)
 
