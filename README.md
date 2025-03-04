@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer of the Developer World</h3>
 
-
 - 🔭 I’m currently working on **Spotify Clone**
 
 - 👨‍💻 All of my projects are available at [https://abhayrobotics.github.io/](https://abhayrobotics.github.io/)
