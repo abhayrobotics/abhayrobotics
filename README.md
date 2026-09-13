@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Utility Ops**
 
-- 👨‍💻 All of my projects are available at [https://abhayrobotics.github.io/](https://abhayrobotics.github.io/)
+- 👨‍💻 Check out my portfolio at [https://agupta.vercel.app/](https://agupta.vercel.app/)
 
 - 📫 How to reach me **abhay.gupta861@gmail.com**
 
